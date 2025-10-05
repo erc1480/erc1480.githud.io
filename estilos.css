@@ -1,0 +1,17 @@
+img{width: 250px;
+height: 150px;}
+#sig{width: 400px;
+height: 300px;}
+#saludo{width: 175px;
+height: 300px;}
+
+td,th{border: 2px solid;}
+table{width: 25%;}
+html{
+     scroll-behavior: smooth;
+}
+a{text-decoration: none;
+font-size: large;}
+a:hover{color: rgb(255, 254, 254);
+background: rgb(39, 140, 255);
+font-size: xx-large;}
